@@ -1,0 +1,5 @@
+{
+  "name": "Instruktur Robot Cerdas",
+  "description": "Sebuah aplikasi web interaktif untuk belajar tentang algoritma dengan memberikan instruksi kepada robot virtual untuk menata meja makan, didukung oleh Gemini API.",
+  "requestFramePermissions": []
+}
